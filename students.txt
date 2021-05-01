@@ -7,3 +7,8 @@ the list of students are:
 4.amrin
 5.poojitha
 6.manasa
+7.teja
+8.shalu
+9.manu
+10.sanath
+
