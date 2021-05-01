@@ -12,3 +12,6 @@ the list of students are:
 9.manu
 10.sanath
 
+Now we have only 10 students 
+we are closing now this class 
+
