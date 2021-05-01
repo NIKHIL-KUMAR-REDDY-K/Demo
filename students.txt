@@ -1,0 +1,9 @@
+welcome students
+
+the list of students are:
+1.Nikhil
+2.tharun
+3.pandu
+4.amrin
+5.poojitha
+6.manasa
